@@ -2,7 +2,7 @@ name: Deploy static site to GitHub Pages
 
 on:
   push:
-    branches: [main, arena/01a106b2-market-ai]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
