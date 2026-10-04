@@ -23,7 +23,7 @@ Then visit `http://localhost:8080`.
 
 ## GitHub Pages
 
-The workflow at `.github/workflows/pages.yml` deploys to GitHub Pages after pushes to `main`. It can also be run manually from **Actions → Deploy static site to GitHub Pages → Run workflow**. The repository's Pages source should be set to **GitHub Actions**.
+The workflow at `.github/workflows/pages.yml` deploys to GitHub Pages after pushes to `main` and this MVP working branch. It can also be run manually from **Actions → Deploy static site to GitHub Pages → Run workflow**. The repository's Pages source should be set to **GitHub Actions**.
 
 Expected project-site URL:
 
